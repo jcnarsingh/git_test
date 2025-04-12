@@ -2,6 +2,13 @@
 My first GitHub Repo! 
 Hello New Application! 
 
+## Features
+- Simple and easy to use
+- Modern and clean interface
+- Cross-platform compatibility
+- Fast and efficient performance
+-123456
+-Hello
 ## Testing
 To run tests for this project:
 
